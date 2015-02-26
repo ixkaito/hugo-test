@@ -31,3 +31,5 @@ doc/
 
 # Ignore Sass cache files.
 *.scssc
+
+/public
