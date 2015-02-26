@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on New Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on New Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Feb 2015 05:04:53 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>welcome</title>
+      <link>http://localhost:1313/post/welcome/</link>
+      <pubDate>Fri, 27 Feb 2015 05:04:53 +0900</pubDate>
+      
+      <guid>http://localhost:1313/post/welcome/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi corrupti corporis ea non architecto voluptatibus adipisci error quisquam aspernatur. Vitae necessitatibus sint cupiditate eligendi impedit obcaecati pariatur culpa, reiciendis voluptate! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae perferendis, incidunt ducimus sequi omnis placeat asperiores laborum voluptates, laudantium, illo et dolor ipsum accusantium voluptate corporis. Architecto, provident suscipit eaque.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
